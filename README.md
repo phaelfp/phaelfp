@@ -1,6 +1,6 @@
 # Raphael Freitas Pereira (PH) 
 
-Specialist Analyst at @Grupogen.
+Specialist Analyst at @grupogen.
 
 Enthusiast for programming technology.
 
